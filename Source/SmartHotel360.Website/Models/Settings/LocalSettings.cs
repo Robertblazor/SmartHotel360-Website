@@ -7,7 +7,7 @@
             FakeAuth = new FakeAuthSettings();
             PetsConfig = new PetsConfig();
         }
-
+        // My first change
         public bool Production { get; set; }
         public FakeAuthSettings FakeAuth { get; set; }
         public PetsConfig PetsConfig { get; set; }
